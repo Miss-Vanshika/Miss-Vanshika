@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Vanshika Bhatia
 - 👀 I’m a tech enthusiast
 - 🌱 I’m currently learning front end web development and working on DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Keep Learning and grow together
