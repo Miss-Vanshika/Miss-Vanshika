@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vanshika 
-- 👀 I’m a coding enthusiast pursuing B.tech from IP University
+- 👀 I’m a coding enthusiast and a recent graduate B.tech
 - 🌱 I’m currently learning front end web development and working on DSA
 - 💞️ Keep Learning and grow together
